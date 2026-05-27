@@ -64,9 +64,6 @@ Random Forest + GridSearchCV pipeline for treatment type classification from pat
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkathakur24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkathakur24&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
